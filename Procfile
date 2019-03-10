@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT doom_royle_1269.wsgi:application
